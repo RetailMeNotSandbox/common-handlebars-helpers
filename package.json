@@ -1,6 +1,6 @@
 {
   "name": "@retailmenot/common-handlebars-helpers",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "common, general purpose handlebars helpers used by RetailMeNot applications",
   "license": "MIT",
   "author": "",
