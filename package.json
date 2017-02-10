@@ -1,0 +1,29 @@
+{
+  "name": "@retailmenot/common-handlebars-helpers",
+  "version": "0.0.0",
+  "description": "common, general purpose handlebars helpers used by RetailMeNot applications",
+  "license": "MIT",
+  "author": "",
+  "maintainers": [
+    "Kyle Smith <knksmith57@gmail.com>",
+    "Luke Zilioli <elzee08@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "RetailMeNotSandbox/common-handlebars-helpers"
+  },
+  "main": "index.js",
+  "scripts": {
+    "coverage": "nyc --check-coverage --branches 100 npm run test",
+    "lint": "standard",
+    "preversion": "npm run lint && npm run coverage",
+    "test": "mocha --recursive --bail --require should"
+  },
+  "devDependencies": {
+    "handlebars": "^4.0.6",
+    "mocha": "^3.2",
+    "nyc": "^10.1",
+    "should": "^11.2",
+    "standard": "^8.6"
+  }
+}
