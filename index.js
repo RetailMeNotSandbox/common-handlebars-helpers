@@ -9,4 +9,3 @@ module.exports = {
   join: require('./helpers/join'),
   modChoose: require('./helpers/modChoose')
 }
-
