@@ -3,6 +3,7 @@
 
 > common, general purpose handlebars helpers used by RetailMeNot applications
 
+[![Build Status](https://travis-ci.org/RetailMeNotSandbox/common-handlebars-helpers.svg?branch=master)](https://travis-ci.org/RetailMeNotSandbox/common-handlebars-helpers)
 
 ## Quickstart
 ```sh
