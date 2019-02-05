@@ -6,7 +6,7 @@
   "author": "",
   "maintainers": [
     "Kyle Smith <knksmith57@gmail.com>",
-    "Luke Zilioli <elzee08@gmail.com>"
+    "Ray Pierce <ray@digitalpierce.com>"
   ],
   "repository": {
     "type": "git",
@@ -20,10 +20,10 @@
     "test": "mocha --recursive --bail --require should"
   },
   "devDependencies": {
-    "handlebars": "^4.0.6",
+    "handlebars": "^4.0.12",
     "mocha": "^5.1.1",
     "nyc": "^13.2.0",
     "should": "^13.2.1",
-    "standard": "^12.0.0"
+    "standard": "^12.0.1"
   }
 }
