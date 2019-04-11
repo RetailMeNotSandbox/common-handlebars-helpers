@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "handlebars": "^4.0.12",
-    "mocha": "^5.1.1",
+    "mocha": "^6.1.2",
     "nyc": "^13.2.0",
     "should": "^13.2.1",
     "standard": "^12.0.1"
