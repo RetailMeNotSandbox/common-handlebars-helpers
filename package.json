@@ -20,10 +20,10 @@
     "test": "mocha --recursive --bail --require should"
   },
   "devDependencies": {
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.7.2",
     "mocha": "^7.0.1",
     "nyc": "^15.0.0",
-    "should": "^13.2.1",
+    "should": "^13.2.3",
     "standard": "^14.3.1"
   }
 }
