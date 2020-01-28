@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "RetailMeNotSandbox/common-handlebars-helpers"
+    "url": "https://github.com/RetailMeNotSandbox/common-handlebars-helpers"
   },
   "main": "index.js",
   "scripts": {
