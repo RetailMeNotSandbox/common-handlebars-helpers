@@ -1,7 +1,7 @@
 @retailmenot/common-handlebars-helpers
 ======================================
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/RetailMeNotSandbox/common-handlebars-helpers.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/RetailMeNotSandbox/common-handlebars-helpers.svg?branch=master)](https://travis-ci.org/RetailMeNotSandbox/common-handlebars-helpers)
 
 > common, general purpose handlebars helpers used by RetailMeNot applications
